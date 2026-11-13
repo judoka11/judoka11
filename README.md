@@ -1,16 +1,15 @@
-Hi, I'm **Maciej Mirowski**.
+### Hi, I'm Maciej 👋
 
-I'm a backend engineer from Warsaw, Poland. I build Python services for geospatial and archaeological data at Warsaw University of Technology, currently on the **[Mare Nostrum LAB Platform](https://mn.cenagis.edu.pl/)**: Arches, IIIF/RTI imaging, PostGIS, Celery.
+I'm a backend engineer in Warsaw. I build Python services for geospatial and archaeological data at Warsaw University of Technology.
 
-Things I've built on my own:
+**Now:** [Mare Nostrum LAB Platform](https://mn.cenagis.edu.pl/). I work on Arches extensions, IIIF/RTI imaging, GeoTIFF processing with Celery, and PostGIS data validation.
 
-* **[oss-tokens](https://github.com/judoka11/oss-tokens)**: lets AI coding agents pick up opt-in GitHub issues, with Docker-sandboxed verification ([demo](https://github.com/judoka11/oss-tokens-demo)).
-* **[warsaw-wallpaper](https://github.com/judoka11/warsaw-wallpaper)**: a live map of Warsaw's buses and trams, built from the city's real-time open data.
-* **[volume-anchor](https://github.com/judoka11/volume-anchor)**: a Chrome extension that evens out video loudness on YouTube and Reddit.
+<a href="https://github.com/judoka11/warsaw-wallpaper"><img src="warsaw.png" alt="Live map of Warsaw's buses and trams" width="100%"></a>
 
-I mostly work with Python (FastAPI, Celery, PostgreSQL/PostGIS), and some JavaScript.
+| Project | What it does | Stack |
+|---|---|---|
+| [warsaw-wallpaper](https://github.com/judoka11/warsaw-wallpaper) | Live map of Warsaw's buses and trams. It flags stalled vehicles and bunching. | Python, FastAPI, MapLibre, Docker |
+| [oss-tokens](https://github.com/judoka11/oss-tokens) | Lets AI coding agents pick up opt-in GitHub issues, with Docker-sandboxed verification ([demo](https://github.com/judoka11/oss-tokens-demo)). | Node.js, MCP, Docker |
+| [volume-anchor](https://github.com/judoka11/volume-anchor) | A Chrome extension that evens out video loudness on YouTube and Reddit. | JavaScript, Web Audio API |
 
-You can find me on:
-
-* [LinkedIn](https://www.linkedin.com/in/maciej-mirowski-306491295/)
-* [Mare Nostrum LAB team page](https://mn.cenagis.edu.pl/team/)
+[LinkedIn](https://www.linkedin.com/in/maciej-mirowski-306491295/) · [Team page](https://mn.cenagis.edu.pl/team/)
