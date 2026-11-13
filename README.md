@@ -4,7 +4,7 @@ I'm a backend engineer in Warsaw. I build Python services for geospatial and arc
 
 **Now:** [Mare Nostrum LAB Platform](https://mn.cenagis.edu.pl/). I work on Arches extensions, IIIF/RTI imaging, GeoTIFF processing with Celery, and PostGIS data validation.
 
-<a href="https://github.com/judoka11/warsaw-wallpaper"></a>
+<a href="https://github.com/judoka11/warsaw-wallpaper"><img src="wwa-wallpaper.gif" alt="Live map of Warsaw's buses and trams" width="100%"></a>
 
 | Project | What it does | Stack |
 |---|---|---|
